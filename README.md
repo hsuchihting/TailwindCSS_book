@@ -50,11 +50,17 @@ TailwindCSS 3.0
 
 15. 新增自己的 Utility
 
-16. 使用官方套件
+16. 使用現成套件
 
-    - Typography
-    - Forms
-    - Aspect Ratio
-    - Line Camp
+- 官方套件
 
+  - Typography
+  - Forms
+  - Aspect Ratio
+  - Line Camp
+
+- 第三方套件
+  - Awesome-tailwindcss
+
+17. 自訂樣式
     ---未完
